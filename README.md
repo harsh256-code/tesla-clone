@@ -1,9 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 
-### `Checkout Live`
-https://tesla-clone-41aab.web.app/
+# Deployed Version -- https://tesla-clone-41aab.web.app/
 
+## Preview 
+![image](https://user-images.githubusercontent.com/70187887/185855081-6df0e364-10b4-4829-83e7-08b50db3e139.png)
 
 ## Available Scripts
 
